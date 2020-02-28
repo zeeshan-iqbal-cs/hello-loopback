@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://127.0.0.1:27017",
+    "database": "hello-app-db",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "greeting",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "message": {
+      "type": "string",
+      "required": true,
+      "default": "\"Hello from other side\""
+    },
+    "greeter": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
