@@ -14,15 +14,15 @@
     "compression": "^1.0.3",
     "cors": "^2.5.2",
     "helmet": "^3.10.0",
-    "loopback": "^3.22.0",
+    "loopback": "^3.19.3",
     "loopback-boot": "^2.6.5",
-    "loopback-component-explorer": "^6.2.0",
+    "loopback-component-explorer": "^6.5.1",
     "loopback-connector-mongodb": "^5.2.2",
     "serve-favicon": "^2.0.1",
     "strong-error-handler": "^3.0.0"
   },
   "devDependencies": {
-    "eslint": "^3.17.1",
+    "eslint": "^8.8.0",
     "eslint-config-loopback": "^8.0.0"
   },
   "repository": {
